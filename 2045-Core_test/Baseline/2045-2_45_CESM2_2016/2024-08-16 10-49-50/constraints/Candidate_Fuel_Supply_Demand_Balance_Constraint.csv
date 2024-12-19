@@ -1,0 +1,10 @@
+CANDIDATE_FUELS,MODEL_YEARS,Lower Bound,Body,Upper Bound,Dual,Expression
+Biomass,2045,,0.0,0.0,0.0,
+CA_NW_Coal,2045,,0.0,0.0,0.0,
+CA_Natural_Gas,2045,,0.0,0.0,0.0,
+CA_Natural_Gas_CCS_90,2045,,0.0,0.0,0.0,
+CA_Natural_Gas_CCS_95,2045,,0.0,0.0,0.0,
+NW_Natural_Gas,2045,,-0.0,0.0,0.0,
+SW_Coal_Fuel,2045,,-0.0,0.0,0.0,
+SW_Natural_Gas,2045,,-0.0,0.0,0.0,
+Uranium,2045,,0.0,0.0,0.0,

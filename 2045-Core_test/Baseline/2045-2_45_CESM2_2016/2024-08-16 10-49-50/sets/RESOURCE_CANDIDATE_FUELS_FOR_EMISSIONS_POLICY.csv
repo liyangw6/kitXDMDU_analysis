@@ -1,0 +1,45 @@
+,RESOURCE_CANDIDATE_FUELS_FOR_EMISSIONS_POLICY,RESOURCE_CANDIDATE_FUELS_FOR_EMISSIONS_POLICY,RESOURCE_CANDIDATE_FUELS_FOR_EMISSIONS_POLICY
+0,CARB Cap-and-Trade,BANC_CCGT1,CA_Natural_Gas
+1,CARB Cap-and-Trade,BANC_CCGT2,CA_Natural_Gas
+2,CARB Cap-and-Trade,BANC_Peaker1,CA_Natural_Gas
+3,CARB Cap-and-Trade,BANC_Peaker2,CA_Natural_Gas
+4,CARB Cap-and-Trade,BANC_Reciprocating_Engine,CA_Natural_Gas
+5,CARB Cap-and-Trade,CAISO_Advanced_CCGT,CA_Natural_Gas
+6,CARB Cap-and-Trade,CAISO_Advanced_CCGT_CCS_95,CA_Natural_Gas_CCS_95
+7,CARB Cap-and-Trade,CAISO_Aero_CT,CA_Natural_Gas
+8,CARB Cap-and-Trade,CAISO_CCGT1,CA_Natural_Gas
+9,CARB Cap-and-Trade,CAISO_CCGT1_Retrofit_CCS_90,CA_Natural_Gas_CCS_90
+10,CARB Cap-and-Trade,CAISO_CCGT2,CA_Natural_Gas
+11,CARB Cap-and-Trade,CAISO_CCGT_Remote,CA_Natural_Gas
+12,CARB Cap-and-Trade,CAISO_CHP,CA_Natural_Gas
+13,CARB Cap-and-Trade,CAISO_Coal,CA_NW_Coal
+14,CARB Cap-and-Trade,CAISO_New_Reciprocating_Engine,CA_Natural_Gas
+15,CARB Cap-and-Trade,CAISO_Peaker1,CA_Natural_Gas
+16,CARB Cap-and-Trade,CAISO_Peaker2,CA_Natural_Gas
+17,CARB Cap-and-Trade,CAISO_Reciprocating_Engine,CA_Natural_Gas
+18,CARB Cap-and-Trade,CAISO_ST,CA_Natural_Gas
+19,CARB Cap-and-Trade,IID_CCGT1,CA_Natural_Gas
+20,CARB Cap-and-Trade,IID_Peaker1,CA_Natural_Gas
+21,CARB Cap-and-Trade,IID_Peaker2,CA_Natural_Gas
+22,CARB Cap-and-Trade,IID_ST,CA_Natural_Gas
+23,CARB Cap-and-Trade,LDWP_CCGT1,CA_Natural_Gas
+24,CARB Cap-and-Trade,LDWP_CCGT2,CA_Natural_Gas
+25,CARB Cap-and-Trade,LDWP_CHP,CA_Natural_Gas
+26,CARB Cap-and-Trade,LDWP_Coal,CA_NW_Coal
+27,CARB Cap-and-Trade,LDWP_Peaker1,CA_Natural_Gas
+28,CARB Cap-and-Trade,LDWP_Peaker1_New_Planned,CA_Natural_Gas
+29,CARB Cap-and-Trade,LDWP_ST,CA_Natural_Gas
+30,GHG Planning Target,CAISO_Advanced_CCGT,CA_Natural_Gas
+31,GHG Planning Target,CAISO_Advanced_CCGT_CCS_95,CA_Natural_Gas_CCS_95
+32,GHG Planning Target,CAISO_Aero_CT,CA_Natural_Gas
+33,GHG Planning Target,CAISO_CCGT1,CA_Natural_Gas
+34,GHG Planning Target,CAISO_CCGT1_Retrofit_CCS_90,CA_Natural_Gas_CCS_90
+35,GHG Planning Target,CAISO_CCGT2,CA_Natural_Gas
+36,GHG Planning Target,CAISO_CCGT_Remote,CA_Natural_Gas
+37,GHG Planning Target,CAISO_CHP,CA_Natural_Gas
+38,GHG Planning Target,CAISO_Coal,CA_NW_Coal
+39,GHG Planning Target,CAISO_New_Reciprocating_Engine,CA_Natural_Gas
+40,GHG Planning Target,CAISO_Peaker1,CA_Natural_Gas
+41,GHG Planning Target,CAISO_Peaker2,CA_Natural_Gas
+42,GHG Planning Target,CAISO_Reciprocating_Engine,CA_Natural_Gas
+43,GHG Planning Target,CAISO_ST,CA_Natural_Gas

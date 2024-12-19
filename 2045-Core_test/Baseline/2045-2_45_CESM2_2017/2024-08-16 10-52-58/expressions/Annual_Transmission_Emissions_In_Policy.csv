@@ -1,0 +1,27 @@
+TRANSMISSION_LINES,POLICIES_BY_TYPE[emissions],MODEL_YEARS,Annual_Transmission_Emissions_In_Policy
+BANC to CAISO,CARB Cap-and-Trade,2045,0.0
+BANC to CAISO,GHG Planning Target,2045,287727.68
+CAISO_NW_Hydro to CAISO,CARB Cap-and-Trade,2045,0.0
+CAISO_NW_Hydro to CAISO,GHG Planning Target,2045,0.0
+IID to CAISO,CARB Cap-and-Trade,2045,0.0
+IID to CAISO,GHG Planning Target,2045,4198681.993
+IID to LDWP,CARB Cap-and-Trade,2045,0.0
+IID to LDWP,GHG Planning Target,2045,0.0
+LDWP to CAISO,CARB Cap-and-Trade,2045,0.0
+LDWP to CAISO,GHG Planning Target,2045,47578.982
+NW to BANC,CARB Cap-and-Trade,2045,292827.103
+NW to BANC,GHG Planning Target,2045,0.0
+NW to CAISO,CARB Cap-and-Trade,2045,151376.781
+NW to CAISO,GHG Planning Target,2045,151376.781
+NW to LDWP,CARB Cap-and-Trade,2045,1742896.876
+NW to LDWP,GHG Planning Target,2045,0.0
+NW to SW,CARB Cap-and-Trade,2045,0.0
+NW to SW,GHG Planning Target,2045,0.0
+SW to BANC,CARB Cap-and-Trade,2045,2198.56
+SW to BANC,GHG Planning Target,2045,0.0
+SW to CAISO,CARB Cap-and-Trade,2045,256852.278
+SW to CAISO,GHG Planning Target,2045,256852.278
+SW to IID,CARB Cap-and-Trade,2045,0.0
+SW to IID,GHG Planning Target,2045,0.0
+SW to LDWP,CARB Cap-and-Trade,2045,105479.335
+SW to LDWP,GHG Planning Target,2045,0.0

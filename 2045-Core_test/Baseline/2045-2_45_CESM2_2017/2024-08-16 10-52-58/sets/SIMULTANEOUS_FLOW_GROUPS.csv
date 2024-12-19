@@ -1,0 +1,9 @@
+,SIMULTANEOUS_FLOW_GROUPS
+0,CAISO_Export_Limit
+1,CAISO_Import_Limit
+2,CAISO_to_NW_Export
+3,CA_to_NW
+4,CA_to_SW
+5,NW_to_CA
+6,NW_to_CAISO_Export
+7,SW_to_CA

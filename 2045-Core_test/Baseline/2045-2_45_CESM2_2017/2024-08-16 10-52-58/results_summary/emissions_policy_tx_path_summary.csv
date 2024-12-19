@@ -1,0 +1,29 @@
+Policy,Transmission Path,Model Year,Annual Policy Contribution (tonne)
+CARB Cap-and-Trade,BANC to CAISO,2045-01-01,0.0
+CARB Cap-and-Trade,CAISO_NW_Hydro to CAISO,2045-01-01,0.0
+CARB Cap-and-Trade,CAISO_NW_Hydro to NW,2045-01-01,
+CARB Cap-and-Trade,IID to CAISO,2045-01-01,0.0
+CARB Cap-and-Trade,IID to LDWP,2045-01-01,0.0
+CARB Cap-and-Trade,LDWP to CAISO,2045-01-01,0.0
+CARB Cap-and-Trade,NW to BANC,2045-01-01,292827.103
+CARB Cap-and-Trade,NW to CAISO,2045-01-01,151376.781
+CARB Cap-and-Trade,NW to LDWP,2045-01-01,1742896.876
+CARB Cap-and-Trade,NW to SW,2045-01-01,0.0
+CARB Cap-and-Trade,SW to BANC,2045-01-01,2198.56
+CARB Cap-and-Trade,SW to CAISO,2045-01-01,256852.278
+CARB Cap-and-Trade,SW to IID,2045-01-01,0.0
+CARB Cap-and-Trade,SW to LDWP,2045-01-01,105479.335
+GHG Planning Target,BANC to CAISO,2045-01-01,287727.68
+GHG Planning Target,CAISO_NW_Hydro to CAISO,2045-01-01,0.0
+GHG Planning Target,CAISO_NW_Hydro to NW,2045-01-01,
+GHG Planning Target,IID to CAISO,2045-01-01,4198681.993
+GHG Planning Target,IID to LDWP,2045-01-01,0.0
+GHG Planning Target,LDWP to CAISO,2045-01-01,47578.982
+GHG Planning Target,NW to BANC,2045-01-01,0.0
+GHG Planning Target,NW to CAISO,2045-01-01,151376.781
+GHG Planning Target,NW to LDWP,2045-01-01,0.0
+GHG Planning Target,NW to SW,2045-01-01,0.0
+GHG Planning Target,SW to BANC,2045-01-01,0.0
+GHG Planning Target,SW to CAISO,2045-01-01,256852.278
+GHG Planning Target,SW to IID,2045-01-01,0.0
+GHG Planning Target,SW to LDWP,2045-01-01,0.0

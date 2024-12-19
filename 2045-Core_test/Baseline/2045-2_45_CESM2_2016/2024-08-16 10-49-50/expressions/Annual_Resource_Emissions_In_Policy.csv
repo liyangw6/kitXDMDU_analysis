@@ -1,0 +1,46 @@
+RESOURCES,POLICIES_BY_TYPE[emissions],MODEL_YEARS,Annual_Resource_Emissions_In_Policy
+BANC_CCGT1,CARB Cap-and-Trade,2045,53360.699
+BANC_CCGT2,CARB Cap-and-Trade,2045,0.0
+BANC_Peaker1,CARB Cap-and-Trade,2045,343.461
+BANC_Peaker2,CARB Cap-and-Trade,2045,0.0
+BANC_Reciprocating_Engine,CARB Cap-and-Trade,2045,137.443
+CAISO_Advanced_CCGT,CARB Cap-and-Trade,2045,0.0
+CAISO_Advanced_CCGT,GHG Planning Target,2045,0.0
+CAISO_Advanced_CCGT_CCS_95,CARB Cap-and-Trade,2045,0.0
+CAISO_Advanced_CCGT_CCS_95,GHG Planning Target,2045,0.0
+CAISO_Aero_CT,CARB Cap-and-Trade,2045,0.0
+CAISO_Aero_CT,GHG Planning Target,2045,0.0
+CAISO_Allam_Cycle_100,CARB Cap-and-Trade,2045,0.0
+CAISO_CCGT1,CARB Cap-and-Trade,2045,3294661.09
+CAISO_CCGT1,GHG Planning Target,2045,3294661.09
+CAISO_CCGT1_Retrofit_CCS_90,CARB Cap-and-Trade,2045,0.0
+CAISO_CCGT1_Retrofit_CCS_90,GHG Planning Target,2045,0.0
+CAISO_CCGT2,CARB Cap-and-Trade,2045,47015.651
+CAISO_CCGT2,GHG Planning Target,2045,47015.651
+CAISO_CCGT_Remote,CARB Cap-and-Trade,2045,29169.396
+CAISO_CCGT_Remote,GHG Planning Target,2045,29169.396
+CAISO_CHP,CARB Cap-and-Trade,2045,0.0
+CAISO_CHP,GHG Planning Target,2045,0.0
+CAISO_Coal,CARB Cap-and-Trade,2045,0.0
+CAISO_Coal,GHG Planning Target,2045,0.0
+CAISO_New_Reciprocating_Engine,CARB Cap-and-Trade,2045,0.0
+CAISO_New_Reciprocating_Engine,GHG Planning Target,2045,0.0
+CAISO_Peaker1,CARB Cap-and-Trade,2045,102759.464
+CAISO_Peaker1,GHG Planning Target,2045,102759.464
+CAISO_Peaker2,CARB Cap-and-Trade,2045,52695.743
+CAISO_Peaker2,GHG Planning Target,2045,52695.743
+CAISO_Reciprocating_Engine,CARB Cap-and-Trade,2045,8777.22
+CAISO_Reciprocating_Engine,GHG Planning Target,2045,8777.22
+CAISO_ST,CARB Cap-and-Trade,2045,0.0
+CAISO_ST,GHG Planning Target,2045,0.0
+IID_CCGT1,CARB Cap-and-Trade,2045,0.0
+IID_Peaker1,CARB Cap-and-Trade,2045,0.0
+IID_Peaker2,CARB Cap-and-Trade,2045,0.0
+IID_ST,CARB Cap-and-Trade,2045,0.0
+LDWP_CCGT1,CARB Cap-and-Trade,2045,287628.484
+LDWP_CCGT2,CARB Cap-and-Trade,2045,1951.909
+LDWP_CHP,CARB Cap-and-Trade,2045,277048.731
+LDWP_Coal,CARB Cap-and-Trade,2045,0.0
+LDWP_Peaker1,CARB Cap-and-Trade,2045,0.0
+LDWP_Peaker1_New_Planned,CARB Cap-and-Trade,2045,0.0
+LDWP_ST,CARB Cap-and-Trade,2045,0.0

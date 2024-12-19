@@ -1,0 +1,16 @@
+2024-12-19 13:34:21,448 - INFO - Loaded CSV files from /Users/liyangwang/kitxDMDU_analysis/2045-Core_test/Baseline/2045-2_45_CESM2_2015/2024-08-16 10-48-13
+2024-12-19 13:34:22,989 - INFO - Converted MODEL_YEARS, REP_PERIODS, and HOURS into datetime successfully.
+2024-12-19 13:34:23,017 - INFO - Calculated hourly input load successfully.
+2024-12-19 13:34:23,120 - INFO - Calculated hourly import/export successfully.
+2024-12-19 13:34:23,159 - INFO - Calculated reserve margin successfully.
+2024-12-19 13:34:24,467 - INFO - Loaded CSV files from /Users/liyangwang/kitxDMDU_analysis/2045-Core_test/Baseline/2045-2_45_CESM2_2017/2024-08-16 10-52-58
+2024-12-19 13:34:26,002 - INFO - Converted MODEL_YEARS, REP_PERIODS, and HOURS into datetime successfully.
+2024-12-19 13:34:26,027 - INFO - Calculated hourly input load successfully.
+2024-12-19 13:34:26,129 - INFO - Calculated hourly import/export successfully.
+2024-12-19 13:34:26,167 - INFO - Calculated reserve margin successfully.
+2024-12-19 13:34:27,424 - INFO - Loaded CSV files from /Users/liyangwang/kitxDMDU_analysis/2045-Core_test/Baseline/2045-2_45_CESM2_2016/2024-08-16 10-49-50
+2024-12-19 13:34:29,003 - INFO - Converted MODEL_YEARS, REP_PERIODS, and HOURS into datetime successfully.
+2024-12-19 13:34:29,030 - INFO - Calculated hourly input load successfully.
+2024-12-19 13:34:29,132 - INFO - Calculated hourly import/export successfully.
+2024-12-19 13:34:29,180 - INFO - Calculated reserve margin successfully.
+2024-12-19 13:34:29,366 - INFO - Saved RMall_df to /Users/liyangwang/kitxDMDU_analysis/coretest.log

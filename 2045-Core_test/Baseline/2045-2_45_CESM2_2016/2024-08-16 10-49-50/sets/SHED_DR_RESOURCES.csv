@@ -1,0 +1,24 @@
+,SHED_DR_RESOURCES
+0,CAISO_Shed_DR_Existing
+1,Shed_ag_Pumping
+2,Shed_com_HVAC fans
+3,Shed_com_IT equipment
+4,Shed_com_Lighting
+5,Shed_com_Office Equipment
+6,Shed_com_Refrigeration
+7,Shed_com_Space cooling
+8,Shed_com_Space heating
+9,Shed_com_Water heating
+10,Shed_ind_Ind. cooling
+11,Shed_ind_Ind. heat
+12,Shed_ind_Process
+13,Shed_ind_Pumping
+14,Shed_res_Appliances
+15,Shed_res_Electronics
+16,Shed_res_Lighting
+17,Shed_res_Pool pumps
+18,Shed_res_Refrigeration
+19,Shed_res_Spa heater
+20,Shed_res_Space cooling
+21,Shed_res_Space heating
+22,Shed_res_Water heating

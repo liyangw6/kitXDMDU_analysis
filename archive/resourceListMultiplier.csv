@@ -1,0 +1,57 @@
+﻿Resources,Category,Multiplier
+CAISO_Biogas,Bio/Geo,1
+CAISO_Biomass,Bio/Geo,1
+CAISO_Geothermal,Bio/Geo,1
+Central_Nevada_Geothermal,Bio/Geo,1
+Greater_Imperial_Geothermal,Bio/Geo,1
+InState_Biomass,Bio/Geo,1
+Inyokern_North_Kramer_Geothermal,Bio/Geo,1
+Northern_California_Geothermal,Bio/Geo,1
+Pacific_Northwest_Geothermal,Bio/Geo,1
+CAISO_CCGT1,Gas,1
+CAISO_CCGT2,Gas,1
+CAISO_CCGT_Remote,Gas,1
+CAISO_Peaker1,Gas,1
+CAISO_Peaker2,Gas,1
+CAISO_Reciprocating_Engine,Gas,1
+CAISO_Hydro,Hydro,1
+CAISO_NW_Hydro to CAISO,Hydro,1
+BANC to CAISO,Imports,1
+IID to CAISO,Imports,1
+LDWP to CAISO,Imports,1
+NW to CAISO,Imports,1
+SW to CAISO,Imports,1
+CAISO_Nuclear,Nuclear,1
+Morro_Bay_Offshore_Wind,Offshore Wind,1
+CAISO_Shed_DR_Existing,Shed DR,1
+Arizona_Solar,Solar,1
+CAISO_Solar,Solar,1
+Customer_PV,Solar,1
+Greater_Imperial_Solar,Solar,1
+Greater_Kramer_Solar,Solar,1
+Greater_LA_Solar,Solar,1
+Northern_California_Solar,Solar,1
+Riverside_Solar,Solar,1
+Southern_NV_Eldorado_Solar,Solar,1
+Southern_PGAE_Solar,Solar,1
+Tehachapi_Solar,Solar,1
+Tehachapi_Wind,Solar,1
+CAISO_Adiabatic_CAES_24hr,Storage,0.0375
+CAISO_BTM_Li_Battery,Storage,1
+CAISO_Flow_Battery_8hr_Dispatch,Storage,0.1125
+CAISO_Li_Battery_4hr_Baseline,Storage,0.231958763
+CAISO_Li_Battery_4hr_Dispatch,Storage,0.225
+CAISO_Li_Battery_8hr_Baseline,Storage,0.093167702
+CAISO_Li_Battery_8hr_Dispatch,Storage,0.1125
+CAISO_New_Pumped_Storage_12hr,Storage,0.083333333
+CAISO_Pumped_Hydro,Storage,0.0078125
+Baja_California_Wind,Wind,1
+CAISO_Wind,Wind,1
+Central_Valley_North_Los_Banos_Wind,Wind,1
+Greater_Imperial_Wind,Wind,1
+Idaho_Wind,Wind,1
+New_Mexico_Wind,Wind,1
+Northern_California_Wind,Wind,1
+Solano_Wind,Wind,1
+Southern_NV_Eldorado_Wind,Wind,1
+Wyoming_Wind,Wind,1
